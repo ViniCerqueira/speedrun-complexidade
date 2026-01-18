@@ -16,7 +16,7 @@
 | Nome | RGM |
 |:---|:---|
 | **Nicolas Santana** | 34971343 |
-| **Vinicius Cerqueira** |  |
+| **Vinicius Cerqueira** | 30492483  |
 | **Vitor Jimenez** |  |
 
 ---
